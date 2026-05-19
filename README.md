@@ -24,3 +24,6 @@ will affect the complexity of the map you are in, as well as your speed.
 The climb will be a scrolling vertical platformer, 
 in which you have to avoid dandruff, get bubbles, and reach barbershops! See how high you can climb the
 corporate ladder.
+
+# PLAY GAME
+https://academy.cs.cmu.edu/sharing/oldLaceFish369828
